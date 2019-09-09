@@ -1,4 +1,3 @@
 # test
 - aa
 - bb
-- cc
